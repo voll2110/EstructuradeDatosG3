@@ -1,5 +1,5 @@
 # Estructura de datos
-En este repositorio podras encontrar temas relacionados con estructuras de datos implementadas en **JAVA**
+En este `respositorio`podras encontrar temas relacionados con estructuras de datos implementadas en **JAVA**
 1. Tipos de datos abstractos
 2. Recursividad
 3. Arreglos
